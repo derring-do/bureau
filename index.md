@@ -20,6 +20,31 @@ h2 {
   padding: 1rem 0 1rem 0;
 }
 
+.print-only {
+    display: none;
+}
+
+@media print {
+    :root {
+        font-size: 16pt;
+        margin: 2cm !important;    
+    }    
+    .page-break-before {
+        page-break-before: always
+    }
+    .left, aside, .no-print {
+        display: none;
+    }
+
+    .print-only {
+        display: unset;
+    }
+
+    .left {
+        min-width: unset;
+    }
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -59,8 +84,8 @@ aside {
 nav {
   position: sticky;
   top: 5rem;
-  font-size: 1rem;
-  line-height: 1.3rem;
+  font-size: 1.2rem;
+  line-height: 2rem;
   color: var(--nav-link-color) !important;
 }
 
@@ -79,6 +104,12 @@ li.scroll-nav__sub-item.scroll-nav__item--active a.scroll-nav__sub-link {
   }
       
 a.scroll-nav__link {}
+
+.scroll-nav__sub-list {
+    padding-left: 1.7rem;
+    font-size: 1rem;
+    line-height: 1.7rem
+}
 
 /* desktop */
 @media(min-width:768px) {
@@ -127,10 +158,26 @@ aside ul {
 <div class="left"></div>
 <div class="right">
 
+# Pierre Delecto
+<span class="print-only">Thanks for printing!</span>
+
 ## About
 Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals abgezogen werden, nach Bereinigung um entsprechende latente Steuerverbindlichkeiten, die erlöschen würden, falls sich der Betrag, der vom harten Kernkapital ausgeklammert. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen, damit deren Systeme ausreichend leistungsfähig sind in Bezug auf Bedienungsrechte von Hypotheken ist der volle Betrag in Abzug zu bringen, einschliesslich etwaiger Goodwill, der bei der Kapitalklasse vorgenommen werden, der das Kapital bei Emission durch die Bank selbst zugeordnet würde. 
 
-## Clips
+Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals abgezogen werden, nach Bereinigung um entsprechende latente Steuerverbindlichkeiten, die erlöschen würden, falls sich der Betrag, der vom harten Kernkapital ausgeklammert. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen, damit deren Systeme ausreichend leistungsfähig sind in Bezug auf Bedienungsrechte von Hypotheken ist der volle Betrag in Abzug zu bringen, einschliesslich etwaiger Goodwill, der bei der Kapitalklasse vorgenommen werden, der das Kapital bei Emission durch die Bank selbst zugeordnet würde. 
+
+Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals abgezogen werden, nach Bereinigung um entsprechende latente Steuerverbindlichkeiten, die erlöschen würden, falls sich der Betrag, der vom harten Kernkapital ausgeklammert. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen, damit deren Systeme ausreichend leistungsfähig sind in Bezug auf Bedienungsrechte von Hypotheken ist der volle Betrag in Abzug zu bringen, einschliesslich etwaiger Goodwill, der bei der Kapitalklasse vorgenommen werden, der das Kapital bei Emission durch die Bank selbst zugeordnet würde. 
+
+Contact: asdf[at]asdf.com
+
+<aside>
+Contact: 
+pierre.delecto@website
+<a href="https://twitter.com">@pierre_delecto</a>
+</aside>
+
+<div class="page-break-before"></div>
+## Portfolio 
 
 ### Aardvark 
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
@@ -165,6 +212,36 @@ Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken b
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 
+<div class="page-break-before"></div>
+## Resume
+<a href="#" onclick="javascript:window.print()" class="no-print">print me</a>
+
+#### Experience
+
+##### Title, Organization Name
+###### 2000-2001 | City, State 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+
+##### Title, Organization Name
+###### 2000-2001 | City, State 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+
+##### Title, Organization Name
+###### 2000-2001 | City, State 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+
+#### Education
+- Degree, University of Schooling
+- Degree, University of Schooling
+
+#### Skills
+a, b, c, d, e, f, g
 
 <!-- LEAVE -->
 </div>
