@@ -27,13 +27,16 @@ h2 {
 @media print {
     :root {
         font-size: 16pt;
-        margin: 2cm !important;    
     }    
     .page-break-before {
         page-break-before: always
     }
     .left, aside, .no-print {
         display: none;
+    }
+
+    .right {
+        margin: 1cm 2.1cm 1cm 2.1cm;
     }
 
     .print-only {
@@ -166,24 +169,18 @@ Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken b
 
 Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals abgezogen werden, nach Bereinigung um entsprechende latente Steuerverbindlichkeiten, die erlöschen würden, falls sich der Betrag, der vom harten Kernkapital ausgeklammert. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen, damit deren Systeme ausreichend leistungsfähig sind in Bezug auf Bedienungsrechte von Hypotheken ist der volle Betrag in Abzug zu bringen, einschliesslich etwaiger Goodwill, der bei der Kapitalklasse vorgenommen werden, der das Kapital bei Emission durch die Bank selbst zugeordnet würde. 
 
-Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals abgezogen werden, nach Bereinigung um entsprechende latente Steuerverbindlichkeiten, die erlöschen würden, falls sich der Betrag, der vom harten Kernkapital ausgeklammert. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen, damit deren Systeme ausreichend leistungsfähig sind in Bezug auf Bedienungsrechte von Hypotheken ist der volle Betrag in Abzug zu bringen, einschliesslich etwaiger Goodwill, der bei der Kapitalklasse vorgenommen werden, der das Kapital bei Emission durch die Bank selbst zugeordnet würde. 
-
 Contact: asdf[at]asdf.com
 
-<aside>
+<!-- <aside>
 Contact: 
 pierre.delecto@website
 <a href="https://twitter.com">@pierre_delecto</a>
-</aside>
+</aside> -->
 
 <div class="page-break-before"></div>
 ## Portfolio 
 
 ### Aardvark 
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
@@ -196,16 +193,8 @@ pierre.delecto@website
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 
 ### Chlorophyll
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
-1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
 1. Die Geschäftsleitung muss dieser Einheit genügend Ressourcen zuweisen
@@ -216,25 +205,30 @@ pierre.delecto@website
 ## Resume
 <a href="#" onclick="javascript:window.print()" class="no-print">print me</a>
 
+<div style="padding: 0rem 0 2rem 0; font-size: 1.2rem; font-weight: bolder;">
+<div>Pierre Delecto</div>
+<div>pierre@delecto.com | (555) 555-5555</div>
+<div>City, State</div>
+</div>
 #### Experience
 
 ##### Title, Organization Name
 ###### 2000-2001 | City, State 
 - Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen 
 
 ##### Title, Organization Name
 ###### 2000-2001 | City, State 
 - Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen 
 
 ##### Title, Organization Name
 ###### 2000-2001 | City, State 
 - Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
-- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen (d.h. Ist der Gesamtbetrag der erwarteten Verluste geringer als der Gesamtbetrag der erwarteten 
+- Bei der Veröffentlichung ihrer KapitalpolsterAnforderungen müssen die Banken bei unterschiedlicher Höhe des harten Kernkapitals in voller Höhe zu berücksichtigen 
 
 #### Education
 - Degree, University of Schooling
